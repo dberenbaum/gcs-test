@@ -1,0 +1,4 @@
+artifacts:
+  mygcsmodel:
+    path: model
+    type: model
