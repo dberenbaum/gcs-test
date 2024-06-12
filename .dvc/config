@@ -1,4 +1,4 @@
 [core]
     remote = default
 ['remote "default"']
-    url = /Users/dave/dvcremote
+    url = gs://dave-sandbox/remote

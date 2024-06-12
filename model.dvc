@@ -1,0 +1,5 @@
+outs:
+- md5: 458d5f1afc81ae7291a7aaad852dc12a
+  size: 6
+  hash: md5
+  path: model
